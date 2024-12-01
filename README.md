@@ -1,6 +1,6 @@
 # Gabriel Augusto Vilarinho
 
-Sou graduando de Engenharia de Software pela UnB-FCTE, tenho conhecimento e prática em desenvolvimento web. Sou desenvolvedora FullStack e tenho grande interesse na área de analise de dados e inteligencia artificial.
+Sou graduando de Engenharia de Software pela UnB-FCTE, tenho conhecimento e prática em desenvolvimento web. Sou desenvolvedor FullStack e tenho grande interesse na área de análise de dados e inteligência artificial.
 
 ## Ferramentas e Linguagens
 
