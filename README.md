@@ -28,4 +28,4 @@ Sou graduando de Engenharia de Software pela UnB-FCTE, tenho conhecimento e prá
 ## Conecte-se Comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%20megabrielvilar-blue)](https://www.linkedin.com/in/megabrielvilar/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40me.gabrielvilar-purple)](https://www.instagram.com/me.gabrielvilar/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40me.gabrielvilar-blue)](https://www.instagram.com/me.gabrielvilar/)
