@@ -8,19 +8,6 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/augustovvrocha/">
-    <img src="https://img.shields.io/badge/LinkedIn-%20augustovvrocha-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="(https://www.instagram.com/gabrielaugusto.23/)">
-    <img src="https://img.shields.io/badge/Instagram-%40gabrielaugusto.23-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 <h3 align="center">⚡ Languages and Tools</h3>
 
 <p align="center">
@@ -42,13 +29,14 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto23&theme=algolia&show_icons=true&count_private=true&hide=issues" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto23&theme=algolia&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto23&theme=algolia&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto23&theme=algolia&show_icons=true&count_private=true&hide=issues" alt="Gabriel's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielaugusto23&theme=algolia" alt="Profile Details" />
 </p>
+
