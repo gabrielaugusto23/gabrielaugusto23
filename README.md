@@ -1,31 +1,54 @@
-# Gabriel Augusto Vilarinho
+<h2 align="center">👋 Hey there! I'm Gabriel Augusto Vilarinho</h2>
 
-Sou graduando de Engenharia de Software pela UnB-FCTE, tenho conhecimento e prática em desenvolvimento web.
+<p align="center">
+  🎓 Software Engineering undergraduate at UnB-FCTE <br/>
+  💻 Passionate about web development and programming <br/>
+  🚀 Always learning new technologies and improving my skills
+</p>
 
-## Ferramentas e Linguagens
+---
 
-- **Linguagens de Programação e Desenvolvimento Web:** 
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Design:** 
-  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-- **Bancos de Dados:** 
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- **Hospedagem e Versionamento de Código:** 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<h3 align="center">🌐 Connect with me</h3>
 
-## Principais Linguagens
+<p align="center">
+  <a href="https://www.linkedin.com/in/augustovvrocha/">
+    <img src="https://img.shields.io/badge/LinkedIn-%20augustovvrocha-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="(https://www.instagram.com/gabrielaugusto.23/)">
+    <img src="https://img.shields.io/badge/Instagram-%40gabrielaugusto.23-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=xzxjesse&layout=compact&theme=dark)
+---
 
-## Se Conecte Comigo
+<h3 align="center">⚡ Languages and Tools</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%20megabrielvilar-blue)](https://www.linkedin.com/in/megabrielvilar/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40me.gabrielvilar-blue)](https://www.instagram.com/me.gabrielvilar/)
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto23&theme=algolia&show_icons=true&count_private=true&hide=issues" alt="Gabriel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto23&theme=algolia&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielaugusto23&theme=algolia" alt="Profile Details" />
+</p>
