@@ -29,14 +29,15 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto23&theme=algolia&layout=compact" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto23&theme=algolia&show_icons=true&hide=issues" alt="Gabriel's GitHub Stats" height="150" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielaugusto23&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaugusto23&theme=algolia&layout=compact" alt="Top Languages" height="150" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=gabrielaugusto23&theme=algolia&show_icons=true&hide=issues" alt="Gabriel's GitHub Stats" height="150" /> -->
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielaugusto23&theme=algolia" alt="GitHub Stats" /> -->
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielaugusto23&theme=algolia" alt="Profile Details" />
 </p>
+
 
 
 
